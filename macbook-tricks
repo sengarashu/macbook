@@ -1,0 +1,5 @@
+How to Open an Unsigned App
+> sudo spctl --master-disable
+
+How to Enable Seeting to Prevent Open an Unsigned App
+> sudo spctl --master-enable
